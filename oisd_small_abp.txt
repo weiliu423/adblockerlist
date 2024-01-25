@@ -9,7 +9,7 @@
 ! Syntax: Adblock Plus Filter List
 ! Maintainer: Stephan van Ruth
 ! Contact: contact@oisd.nl
-
+||dco-assets.everestads.net
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
 ||000.gaysexe.free.fr^
